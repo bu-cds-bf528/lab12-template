@@ -31,6 +31,10 @@ data lives. Find the GEO accession there and download the feature matrices
 names, so you may need to rename them after downloading. Anything the paper
 doesn't state, record as an assumption in your decision record.
 
+Consider only changing one of their thresholds that you think impact their
+data the most and holding the other's constant. You may visualize these metrics
+and see which you think would have the largest effect.
+
 ## Deliverables
 
 ### 1. Code
